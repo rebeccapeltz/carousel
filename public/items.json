@@ -1,0 +1,35 @@
+{
+    "items": {
+      "bootstrap": [
+        {
+          "id": 1,
+          "title": "Wild Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "./images/a.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 2,
+          "title": "Foods and Culture",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "./images/b.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 3,
+          "title": "City Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "./images/c.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 4,
+          "title": "Photography",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "./images/d.jpg",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        }
+      ]
+    }
+  }
+  
